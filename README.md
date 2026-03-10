@@ -26,6 +26,7 @@ The project integrates **Python for data processing, SQLite for database storage
 ---
 ## 📁 Project Structure
 
+```
 Vendor-Performance-Analysis/
 │
 ├── Data/
@@ -53,7 +54,7 @@ Vendor-Performance-Analysis/
 │
 ├── README.md
 
-
+```
 ## 📂 Dataset
 
 This project uses multiple datasets related to vendor sales, purchases, and inventory.
